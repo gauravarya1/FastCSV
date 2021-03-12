@@ -13,7 +13,7 @@ import de.siegmar.fastcsv.reader.NamedCsvRow;
 import de.siegmar.fastcsv.writer.CsvWriter;
 import de.siegmar.fastcsv.writer.LineDelimiter;
 import de.siegmar.fastcsv.writer.QuoteStrategy;
-
+// A public class for write example
 @SuppressWarnings("PMD.SystemPrintln")
 public class CsvWriterExample {
 
